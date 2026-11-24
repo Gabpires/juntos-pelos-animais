@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Juntos pelos Animais">
+  <rect width="64" height="64" rx="16" fill="#304c89"/>
+  <ellipse cx="32" cy="39" rx="13" ry="11" fill="#e7ac32"/>
+  <circle cx="18" cy="28" r="6" fill="#e7ac32"/>
+  <circle cx="28" cy="20" r="6" fill="#e7ac32"/>
+  <circle cx="40" cy="20" r="6" fill="#e7ac32"/>
+  <circle cx="48" cy="29" r="6" fill="#e7ac32"/>
+</svg>
+
