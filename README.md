@@ -4,14 +4,11 @@ Protótipo de landing page estática para apresentação e validação do projet
 
 ## Publicação no GitHub Pages
 
-1. Envie os arquivos deste diretório para a branch `main` do repositório.
-2. No GitHub, abra **Settings → Pages**.
-3. Em **Build and deployment**, escolha **Deploy from a branch**.
-4. Selecione a branch `main`, a pasta `/ (root)` e clique em **Save**.
+Página publicada em:
 
-A publicação costuma ficar disponível no endereço:
+**https://gabpires.github.io/juntos-pelos-animais/**
 
-`https://SEU-USUARIO.github.io/juntos-pelos-animais/`
+A hospedagem utiliza o GitHub Pages, com publicação a partir da branch `main` e da pasta raiz do repositório.
 
 ## Observações
 
