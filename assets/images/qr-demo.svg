@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 252" role="img" aria-labelledby="qr-title qr-desc">
+  <title id="qr-title">QR Code demonstrativo</title>
+  <desc id="qr-desc">Representação visual não transacional para validar o componente de doação.</desc>
+  <rect width="232" height="252" rx="14" fill="#ffffff"/>
+  <g fill="#25344a" shape-rendering="crispEdges">
+    <path d="M20 20h56v56H20zm8 8v40h40V28zm8 8h24v24H36zM156 20h56v56h-56zm8 8v40h40V28zm8 8h24v24h-24zM20 156h56v56H20zm8 8v40h40v-40zm8 8h24v24H36z"/>
+    <path d="M92 20h8v8h-8zm16 0h16v8h-16zm24 0h8v16h-8zM84 36h16v8H84zm24 8h8v16h-8zm16 0h16v8h-16zM84 60h8v16h-8zm16 8h16v8h-16zm24-8h8v16h-8zM84 84h8v16h-8zm16 0h16v8h-16zm24 0h24v8h-24zm32 0h16v8h-16zm24 0h32v8h-32zM20 92h16v8H20zm24-8h8v24h-8zm16 8h16v8H60zm32 8h8v16h-8zm16-8h24v8h-24zm32 8h16v8h-16zm24-8h8v16h-8zm16 8h32v8h-32zM20 116h8v24h-8zm16-8h16v8H36zm24 8h32v8H60zm40 0h8v16h-8zm16-8h16v8h-16zm24 8h24v8h-24zm32-8h8v16h-8zm16 8h24v8h-24zM36 132h8v16h-8zm16 0h24v8H52zm32 0h16v8H84zm24 8h8v16h-8zm16-8h16v24h-16zm24 0h8v8h-8zm16 8h16v8h-16zm24-8h24v8h-24zM84 156h16v8H84zm24 0h8v16h-8zm16 8h24v8h-24zm32-8h16v8h-16zm24 8h8v16h-8zm16-8h16v24h-16zM84 180h8v24h-8zm16 0h24v8h-24zm32 8h8v16h-8zm16-8h16v8h-16zm24 8h16v8h-16zm24 0h16v8h-16zM100 204h8v8h-8zm16-8h8v16h-8zm32 0h16v8h-16zm24 8h8v8h-8zm16-8h24v8h-24z"/>
+  </g>
+  <rect x="79" y="105" width="74" height="28" rx="14" fill="#e7ac32"/>
+  <text x="116" y="124" fill="#25344a" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">DEMO</text>
+  <text x="116" y="238" fill="#687385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle">NÃO TRANSACIONAL</text>
+</svg>
+
